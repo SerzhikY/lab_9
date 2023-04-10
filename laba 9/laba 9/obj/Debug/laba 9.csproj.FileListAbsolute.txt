@@ -1,0 +1,22 @@
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\bin\Debug\laba 9.exe.config
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\bin\Debug\laba 9.exe
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\bin\Debug\laba 9.pdb
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba 9.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba_9.Form1.resources
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba_9.Properties.Resources.resources
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba 9.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba 9.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba 9.exe
+C:\Users\bohsh\Desktop\visual\Максим\laba 9\laba 9\obj\Debug\laba 9.pdb
+C:\Users\bohsh\Desktop\laba 9\laba 9\bin\Debug\laba 9.exe.config
+C:\Users\bohsh\Desktop\laba 9\laba 9\bin\Debug\laba 9.exe
+C:\Users\bohsh\Desktop\laba 9\laba 9\bin\Debug\laba 9.pdb
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba 9.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba_9.Form1.resources
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba_9.Properties.Resources.resources
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba 9.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba 9.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba 9.exe
+C:\Users\bohsh\Desktop\laba 9\laba 9\obj\Debug\laba 9.pdb
